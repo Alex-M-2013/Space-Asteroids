@@ -3,7 +3,7 @@
 A simple game made in python3 with [Ursina](https://www.ursinaengine.org/).
 
 __Download:__ To try it yourself, simply: 
-- Go to the [releases](https://github.com/Alex-M-2013/) section 
+- Go to the [releases](https://github.com/Alex-M-2013/Space-Asteroids/releases/latest) section 
 - Download and extract the ZIP file
 - Look for 'space asteroids.exe' inside the extracted folder and run it
 
