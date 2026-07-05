@@ -15,5 +15,5 @@ __Download:__ To try it yourself, simply:
 - Screen wrapping
 - Self-made assets
 
-__Note:__ This is my first game and I am not the best programmer so the code is very messy 😅 (But still works!).
+__Note:__ This is my first game and I am not the best programmer so the code is quite messy 😅 (But still works!).
  The collisions are also a little bugged.
